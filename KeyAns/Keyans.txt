@@ -1,0 +1,51 @@
+What is an an equipotential surface?
+Surface with same potential at every point on it.
+
+Define drift velocity of free electrons.
+Effective velocity of an electron due to applied external electric field.
+
+Give an application of cyclotron.
+Cyclotron is used to accelerate charged particle.
+
+State Faraday’s law of electro magnetic induction.
+Induced emf in a circuit is direcly proportional to rate of exchange of magnetic flux linked with it.
+
+The decay of proton to neutron is possible only inside the nucleus Why?
+Mass of proton is less than mass of neutron and hence spontaneous disintegration is not possible outside the nucleus / Exchange of Mesons is possible for small distance between nucleons / Nuclear force is exchange force / Nuclear force is short range force.
+
+Mention one power loss in transformer.
+Flux leakage/ hysteresis loss.
+
+
+What is ‘depletion region’ in a semi conductor diode?
+Region between p type and n-type material with immobile charge carriers/Region between
+p and g-type materials, depleted of mobile charge carriers.
+
+
+What is Coulomb's law?
+Columb’s inverse square law states that force of attraction or repulsion between two static point charges is directly proportional to the product of magnitudes of charges and inversely proportional to square of the distance between them.
+
+What is Ohms law?
+Ohm’s law states that potential difference across a conductor is directly proportional to the current through it, provided temperature and other physical conditions are kept constant.
+
+What is quantization of charge?
+The electric charge is always an integral multiple of ‘e’ {charge of an electron}.
+
+What is an electric dipole?
+An electric dipole is a set of two equal and opposite point charges separated by a small distance
+
+State Gauss’s law?
+Gauss’s law states that ‘the electric flux passing out of a closed surface is equal to 1/8  times the charge.
+
+
+State and explain ampere circuital law.
+It states that the integral value of the magnetic field over a closed conductor is equal to 𝜇 times the net current in the conductor.
+
+
+Write the properties of electric field lines.
+Properties of electric field lines are,
+Electric field lines are geometrical representations of strength of electric field.Electric field lines originate from positive charge and terminate on the negative charge.Electric field lines are always perpendicular to the surface of the
+conductor.Electric field lines do not pass through the conductors.Electric field lines do not intersect.
+
+
+

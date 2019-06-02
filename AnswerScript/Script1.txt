@@ -1,0 +1,33 @@
+Any surface which has same potential across all points.
+
+Electrons drift with a velocity called drift velocity.
+
+Cyclotron is used to accelerate charged particle.
+
+Induced current in a circuit is direcly proportional to rate of exchange of magnetic flux linked with it.
+
+Mass of proton is less than mass of neutron and hence spontaneous disintegration is not possible outside the nucleus.
+
+Flux leakage or hysteresis loss.
+
+Region between p type and n-type material with immobile charge carriers/Region between
+p and g-type materials, depleted of mobile charge carriers.
+
+
+Coulombs law states that,"The force of attraction between two point charges is directly proportional to the product of magnitudes of charges and inversely proportional to the square of the distance between them.
+
+Ohms law states that the potential difference across a conductor is directly proportional to the current passing through it, provided temperature and other physical conditions are kept constant.
+
+A charge which is quantised.
+
+A set of two equal and oppsitely charged particles separated by some distance.
+
+Gauss’s law states that ‘the electric flux passing out of a closed surface is equal to 1/6 times the charge.
+
+It states that the integral value of the magnetic field over a closed conductor is equal to 𝜇0 times the net current in the conductor.
+
+Electric field lines are always perpendicular to the surface of the
+conductor.Electric field lines do not pass through the conductors.Electric field lines do not intersect.
+
+
+
