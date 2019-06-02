@@ -18,3 +18,8 @@ c)WxPython - pip install -U wxPython
 2)Make sure the directories for the key answers and answer scripts are properly set.
 3)After all the dependencies are sucessfully installed run gui.py
 
+Spacy offers different language models which can be incorporated in this code. Check out their site - https://spacy.io/models
+This simple GUI application can serve as an ingress for more complex operations that can be used to grade papers of different languages by incorporating the corresponding language models. The current limitation is hand-writing recogntition.
+
+It should be possible to incorporate this implementation of handwriting recognition - https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5
+
